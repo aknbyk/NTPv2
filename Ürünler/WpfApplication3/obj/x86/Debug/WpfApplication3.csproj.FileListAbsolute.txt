@@ -1,0 +1,42 @@
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.baml
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\App.g.cs
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+c:\users\bilisim\documents\visual studio 2010\Projects\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+E:\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+E:\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\bin\Debug\WpfApplication3.exe
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\bin\Debug\WpfApplication3.pdb
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\App.g.cs
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\MainWindow.baml
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\bin\Debug\WpfApplication3.exe
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\bin\Debug\WpfApplication3.pdb
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\App.g.cs
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.lref
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\MainWindow.baml
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+F:\Nesne Tabanlı Programlama II.Dönem\Ürünler\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
